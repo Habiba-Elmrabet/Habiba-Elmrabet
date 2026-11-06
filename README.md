@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5EBDD&height=180&section=header&text=Habiba%20Elmrabet&fontSize=42&fontColor=9A795B&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5EBDD&height=180&section=header&text=Habiba%20Elmrabet&fontSize=42&fontColor=9A795B&animation=fadeIn&fontAlignY=45" width="70%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3500&pause=700&color=9A795B&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hello+there+%E2%9C%A8;AI+%26+Computer+Science+Student;Dream+big%2C+code+more%2C+stay+kind+%E2%99%A1" />
 
